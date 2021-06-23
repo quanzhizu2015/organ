@@ -1,0 +1,31 @@
+.courseDialog{
+    .logo{
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .header-img{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+    }
+    
+    .brand-select{
+        width: 1.5rem;
+    }
+    .timeContain{
+        display: inline;
+        margin-left: .5rem;
+        margin-right: .5rem;
+    }
+    .timeSpace{
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}

@@ -1,0 +1,24 @@
+.form_border{
+    width: 100%;
+    .header{
+        text-align: left;
+        padding: 1rem;
+        height: 6rem;
+    }
+   .from-wrap{
+        width: 100%;
+    }
+    .logo-img{
+        width: 2rem;
+        height: 2rem;
+    }
+    .deleteRowM {
+        font-size: 25px;
+        color: red;
+    }
+    .course-containt{
+        width: 100%;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

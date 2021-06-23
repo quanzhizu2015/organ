@@ -1,0 +1,18 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.code-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .qrcode{
+        width: 9rem;
+        height: 9rem;
+    }
+
+}
+

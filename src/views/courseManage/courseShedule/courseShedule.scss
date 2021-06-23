@@ -1,0 +1,59 @@
+.courseForm_border {
+    width: 100%;
+
+    .header {
+        text-align: center;
+        padding: 2rem;
+        margin-bottom: 2rem;
+
+    }
+
+    .from-wrap {
+        width: 100%;
+    }
+
+    .logo-img {
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .item-icon {
+        position: absolute;
+        top: 0;
+        left: 100%;
+        margin: 0 auto;
+        -webkit-transform: translate(-100%, 0);
+        -moz-transform: translate(-100%, 0);
+        transform: translate(-100%, 0);
+    }
+
+    .item-icon-close {
+        position: absolute;
+        top: 100%;
+        left: 100%;
+        margin: auto auto;
+        -webkit-transform: translate(-100%, -100%);
+        -moz-transform: translate(-100%, -100%);
+        transform: translate(-100%, -100%);
+    }
+
+    .deleteRowM {
+        font-size: 25px;
+        color: red;
+    }
+
+    .timeContain {
+        display: inline;
+        margin-left: .5rem;
+        margin-right: .5rem;
+    }
+
+    .timeSpace {
+        margin-left: 1rem;
+        margin-top: 1rem;
+    }
+}
+
+.classButton {
+    margin-top: 5px;
+}
